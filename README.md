@@ -1,4 +1,6 @@
-<img src="https://octodex.github.com/images/topguntocat.png" width="400" align="center"/>
+<div align="center">
+  <img src="https://octodex.github.com/images/topguntocat.png" width="400" />
+</div>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Rodrigo Medeiros</h1>
 
 - 🔥 I'm a FullStack Developer and passionate in technology!
