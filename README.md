@@ -6,6 +6,7 @@
 
 [![Linkedin: Rodrigo](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodmedeiros/)](https://www.linkedin.com/in/rodmedeiros/)
 
+<!-- 
 ## ⚡ Core Technologies
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="25" height="25"/>
@@ -29,3 +30,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="25" height="25"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="25" height="25"/>
 </div>
+ -->
