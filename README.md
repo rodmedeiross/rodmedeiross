@@ -2,8 +2,6 @@
 
 - 🔥 I'm a FullStack Developer and passionate in technology!
 
-- 🔭 I’m currently working at [ESX](https://www.esx.com.br/)
-
 [![Linkedin: Rodrigo](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodmedeiros/)](https://www.linkedin.com/in/rodmedeiros/)
 
 <!-- 
