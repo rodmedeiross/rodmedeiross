@@ -1,6 +1,9 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Rodrigo Medeiros</h1>
 
 - 🔥 I'm a FullStack Developer and passionate in technology!
+- ⌨️ Vim btw
+- 🧮 Passionate about functional programming
+- 👨‍💻 Studding some programming languages like Rust, Golang, F# and Haskell
 
 [![Linkedin: Rodrigo](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodmedeiros/)](https://www.linkedin.com/in/rodmedeiros/)
 
