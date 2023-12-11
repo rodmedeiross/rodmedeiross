@@ -5,7 +5,7 @@
 - 🧮 Passionate about functional programming
 - 👨‍💻 Studding some programming languages like Rust, Golang, F# and Haskell
 
-[![Linkedin: Rodrigo](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodmedeiros/)](https://www.linkedin.com/in/rodmedeiros/)
+<!-- [![Linkedin: Rodrigo](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodmedeiros/)](https://www.linkedin.com/in/rodmedeiros/) -->
 
 <!-- 
 ## ⚡ Core Technologies
